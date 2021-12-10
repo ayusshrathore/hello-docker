@@ -14,7 +14,7 @@
 -   Prune unwanted images
     `docker image prune`
 
--   Some common flags
+-   Some common flags <br>
     `-d`: Detached Mode
     `-p`: Port Number
     `-it`: Interactive Mode
