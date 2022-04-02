@@ -1,7 +1,7 @@
 # Deploying app using Docker
 
 -   Building app image
-    `docker build -t hello-docker:latest .`
+    `docker build -t hello-docker:latest
 
 -   Running the image container
-    `docker run hello-docker:latest`
+    `docker run hello-docker:latest
